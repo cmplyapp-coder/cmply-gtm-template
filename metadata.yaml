@@ -1,5 +1,5 @@
 homepage: "https://cmply.app"
 documentation: "https://github.com/cmplyapp-coder/cmply-gtm-template"
 versions:
-  - sha: "INITIAL_SHA"
+  - sha: "f60719cc23f68462b2e776e8b15360b912392360"
     changeNotes: "Initial release of CMPly Loader (Web)."
