@@ -1,0 +1,5 @@
+homepage: "https://cmply.app"
+documentation: "https://github.com/cmplyapp-coder/cmply-gtm-template"
+versions:
+  - sha: "INITIAL_SHA"
+    changeNotes: "Initial release of CMPly Loader (Web)."
